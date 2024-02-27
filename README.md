@@ -5,8 +5,6 @@ I coded a c# program that automatically patches NetLimiter for you.
 
 ![image](https://github.com/Baseult/NetLimiterCrack/assets/45830921/df62b060-dde4-41cd-8851-b74b7b7afa1e)
 
-This repository hosts a C# program designed to automate the patching process for NetLimiter. With this tool, you can effortlessly crack NetLimiter to unlock its full potential. 
-
 #### Features:
 - Automatically patches NetLimiter for free Premium.
 
